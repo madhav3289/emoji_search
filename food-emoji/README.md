@@ -32,16 +32,6 @@ and search bar or baki components banaye
  and uske baad search functionality implement kri
 -->Iske baad meme cards ka UI implement kia and then hr component ko Home m assemble kia
 
-# 🎬 Meme Search App
-
-Yo! 👋
-
-Ek mazedaar app hai jo memes search karta hai 😂
-
-**🔗 GitHub:** https://github.com/ArnavPandey1/meme_search
-
----
-
 ## 🔧 Installation & Setup
 
 ### Step 1️⃣ Project Create Karo
